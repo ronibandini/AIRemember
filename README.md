@@ -1,3 +1,5 @@
+![4e756570-dc34-438c-a387-8f95f1fa5bf9](https://github.com/user-attachments/assets/0b444e5d-7650-47ca-bea9-365cd39c5b98)
+
 # AI Remember
 Software de IA generativa que escribe libros de formato I remember (George Perec y Joe Brainard) usando LLM
 
