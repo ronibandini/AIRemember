@@ -12,6 +12,9 @@ Un poco de insomnio y la casualidad de tener la Thinkpad cargada con modelos y l
 
 Serán textos inventados, pero aun así capaces de sugerir un recuerdo colectivo, probable y cautivante.
 
+![Ejemplo2](https://github.com/user-attachments/assets/2a6a2192-5b2c-4682-8976-8763a23fb34f)
+
+
 Para instalar el software es necesario:
 
 1. Instalar Ollama https://ollama.com/download y Python https://www.python.org/downloads/
