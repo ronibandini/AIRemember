@@ -20,3 +20,7 @@ Para instalar el software es necesario:
 1. Instalar Ollama https://ollama.com/download y Python https://www.python.org/downloads/
 2. Descargar un modelo uncensored como Dolphin con ollama pull dolphin-llama3:8b
 3. Descargar el script y ejecutarlo con python  llmrecuerda.py
+
+# Version 2.0
+
+Me encuentro trabajando en la versión 2.0 con varias mejoras como ejemplificación del libro de Brainard, el "seeding" de sustantivos y el recuerdo acumulativo.
